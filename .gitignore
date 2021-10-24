@@ -1,0 +1,4 @@
+/tmp/*
+
+!/tmp/not_ignore
+
